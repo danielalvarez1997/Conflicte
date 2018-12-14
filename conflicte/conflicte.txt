@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Daniel Alvarez
+=======
+jordi mesa
+>>>>>>> 980e627e25aa819c8ca6fd02d8e2f12a332ae0db
